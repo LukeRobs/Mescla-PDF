@@ -12,7 +12,7 @@
 
 ```bash
 
-git clone 
+git clone https://github.com/LukeRobs/Mescla-PDF.git
 python -m venv env
 source env/bin/activate
 pip install pypdf2
